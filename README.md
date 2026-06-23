@@ -24,7 +24,7 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/suthesna-spelmen-15b6962bb/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suthesna-spelmen-15b6962bb/)
 
 ---
 
