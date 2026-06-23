@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna+Spelmen;Every+broken+line+of+code+teaches+me+valuable+debugging+skills.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=1300&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna+Spelmen;Every+broken+line+of+code+teaches+me+valuable+debugging+skills.)](https://git.io/typing-svg)
 
 # Hi, I'm Suthesna 👋
 
@@ -9,13 +9,13 @@ I enjoy building things with data and code — from dashboards and ML models to 
 
 ---
 
-## 🌐 Socials
+# 🌐 Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suthesnaspelmen@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,12 +27,15 @@ I enjoy building things with data and code — from dashboards and ML models to 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23013243.svg?style=for-the-badge&logo=r&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Matplotlib/Seaborn](https://img.shields.io/badge/Matplotlib/Seaborn-3670A0?style=for-the-badge&logo=Matplotlib&logoColor=ffdd54)
+![Google Cloud](https://img.shields.io/badge/Google%Cloud-%23FF9900.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%23404d59.svg?style=for-the-badge&logo=anaconda&logoColor=%2361DAFB)
 
 ---
 
 ## 🚀 Projects
 
-- **DMSL Insight** — Business intelligence platform for a ride-hailing company (React + Express + SQL Server)
+- **DMSL Insight** — Business intelligence platform for a ride-hailing company (Pickme), [React + Express + SQL Server]
 - **Social Media Engagement Analysis** — Regression & K-Means clustering in Python
 
 ---
@@ -44,11 +47,4 @@ I enjoy building things with data and code — from dashboards and ML models to 
 ---
 
 ![Suthesna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suthesna&show_icons=true&theme=gotham)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Suthesna&theme=gotham&hide_border=false)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suthesna&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suthesna&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
