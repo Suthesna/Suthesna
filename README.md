@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna;Data+Science+Undergraduate;Published+Researcher+%40+ICACT+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna+Spelmen;Every+broken+line+of+code+teaches+me+valuable+debugging+skills.)](https://git.io/typing-svg)
 
 # Hi, I'm Suthesna 👋
 
@@ -26,7 +26,7 @@ I enjoy building things with data and code — from dashboards and ML models to 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23013243.svg?style=for-the-badge&logo=r&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%BI-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ---
 
