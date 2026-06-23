@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Suthesna 👋
 
-<!--
-**Suthesna/Suthesna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science undergraduate | Sri Lanka   
+💡 Interested in data analytics, web development & cloud computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python,R, SQL, JavaScript, HTML/CSS  
+**Frameworks:** React, Express.js  
+**Databases:** SQL Server, MySQL  
+**Cloud:** AWS (EC2, IAM), Google Vertex AI  
+**Tools:** Git, SSMS, VS Code
+
+---
+
+## 🚀 Projects
+
+- **DMSL Insight** — Business intelligence platform for a ride-hailing company (React + Express + SQL Server)
+- **Social Media Engagement Analysis** — Regression & K-Means clustering in Python
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://www.linkedin.com/in/suthesna-spelmen-15b6962bb/)]
+
+---
+
+![Suthesna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suthesna&show_icons=true&theme=dark)
