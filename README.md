@@ -1,17 +1,32 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna;Data+Science+Undergraduate;Published+Researcher+%40+ICACT+2025)](https://git.io/typing-svg)
+
 # Hi, I'm Suthesna 👋
+
+I enjoy building things with data and code — from dashboards and ML models to full-stack web apps. Passionate about turning raw data into real insights.
 
 🎓 Data Science undergraduate | Sri Lanka   
 💡 Interested in data analytics, web development & cloud computing
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials
 
-**Languages:** Python,R, SQL, JavaScript, HTML/CSS  
-**Frameworks:** React, Express.js  
-**Databases:** SQL Server, MySQL  
-**Cloud:** AWS (EC2, IAM), Google Vertex AI  
-**Tools:** Git, SSMS, VS Code
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suthesnaspelmen@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![R](https://img.shields.io/badge/R-%23013243.svg?style=for-the-badge&logo=r&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%BI-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ---
 
@@ -28,4 +43,12 @@
 
 ---
 
-![Suthesna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suthesna&show_icons=true&theme=dark)
+![Suthesna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suthesna&show_icons=true&theme=gotham)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Suthesna&theme=gotham&hide_border=false)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suthesna&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suthesna&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
