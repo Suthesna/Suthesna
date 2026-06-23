@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=1300&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna+Spelmen;Every+broken+line+of+code+teaches+me+valuable+debugging+skills.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&cursor=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Suthesna+Spelmen;Every+broken+line+of+code+teaches+me+valuable+debugging+skills.)](https://git.io/typing-svg)
 
-# Hi, I'm Suthesna 👋
+# I'm Suthesna
 
-I enjoy building things with data and code — from dashboards and ML models to full-stack web apps. Passionate about turning raw data into real insights.
+A student who's passionated about data science and technology, with a curiosity to learn and grow. While I’m just starting, I’m driven by a desire to become a thoughtful and insightful data scientist who can use data to solve real-world problems.
 
-🎓 Data Science undergraduate | Sri Lanka   
+I am actively exploring tools and concepts such as Python, R, data visualisation, and machine learning through courses and personal study. My goal is to not only improve my technical skills but also broaden my knowledge, gain hands-on experience, and build meaningful professional connections.
+
+🎓 Data Science undergraduate | Curious About Machine Learning & Analytics | Eager to Learn & Grow  
 💡 Interested in data analytics, web development & cloud computing
 
 ---
@@ -28,7 +30,7 @@ I enjoy building things with data and code — from dashboards and ML models to 
 ![R](https://img.shields.io/badge/R-%23013243.svg?style=for-the-badge&logo=r&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Matplotlib/Seaborn](https://img.shields.io/badge/Matplotlib/Seaborn-3670A0?style=for-the-badge&logo=Matplotlib&logoColor=ffdd54)
-![Google Cloud](https://img.shields.io/badge/Google%Cloud-%23FF9900.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23FF9900.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%23404d59.svg?style=for-the-badge&logo=anaconda&logoColor=%2361DAFB)
 
 ---
@@ -37,6 +39,7 @@ I enjoy building things with data and code — from dashboards and ML models to 
 
 - **DMSL Insight** — Business intelligence platform for a ride-hailing company (Pickme), [React + Express + SQL Server]
 - **Social Media Engagement Analysis** — Regression & K-Means clustering in Python
+- **published and presented research paper at ICACT 2025** — "Evaluating the Impact of Principal Component Analysis on Lung Cancer Prediction Models" — Used R language to analyse the prediction
 
 ---
 
