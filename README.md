@@ -50,4 +50,4 @@ I am actively exploring tools and concepts such as Python, R, data visualisation
 ---
 
 ![Suthesna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suthesna&show_icons=true&theme=gotham)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suthesna&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suthesna&layout=compact&theme=gotham)
